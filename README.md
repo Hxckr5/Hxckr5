@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Hxckr5
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Cyber Security
-- 📫 How to reach me: Telegram - </Syrem>
+My name is Syrem and I am an aspiring Web3 developer. I am currently studying Cyber Security & Digital Forensics and hope to pursue a career in Cyber Security Hardware Development & Ethical Hacking.
